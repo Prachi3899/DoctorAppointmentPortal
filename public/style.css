@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/4d/c2/ff/4dc2ff99f4d0cdf96619a49a2607b5ef.jpg);
+    background-size: cover;
+}
+ .card{
+    margin-top: 5em;
+    margin-left: 50em;
+    margin-right: 50px;
+
+ }
